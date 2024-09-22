@@ -45,7 +45,7 @@ Load your image and manipulate it as much as you want. Then select a path and sa
 - **Video:** 
 <figure class="video_container">
  <video controls="true" allowfullscreen="true">
- <source src="Image Processing - Basic Operations.mp4" type="video/mp4">
+ <source src="https://raw.githubusercontent.com/owl-lilith/Basic-Image-Processing.git/repo/main/Image Processing - Basic Operations.mp4" type="video/mp4">
  </video>
 </figure>
 
